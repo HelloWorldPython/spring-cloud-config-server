@@ -1,1 +1,2 @@
-
+String1=name1
+String2=name1
